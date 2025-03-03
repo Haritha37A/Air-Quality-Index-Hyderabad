@@ -27,12 +27,9 @@ BeautifulSoup / Selenium (For web scraping AQI data)
 
 📂 Hyderabad_AQI_Analysis  
  ├── 📁 data                # Raw & processed AQI datasets  
- ├── 📁 notebooks           # Jupyter notebooks for EDA & analysis  
- ├── 📁 visualizations      # Graphs & insights from AQI trends  
- ├── 📁 scripts             # Python scripts for data scraping & processing  
+ ├── # Jupyter ipynb file for  cleaning ,EDA , visulizations & analysis   
  ├── 📁 dashboard           # Power BI dashboard 
  ├── README.md              # Project overview & setup guide  
- ├── requirements.txt       # Dependencies for Python environment  
 
 🚀 How to Use
 
