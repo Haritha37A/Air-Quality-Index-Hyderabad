@@ -55,3 +55,6 @@ Use Jupyter notebooks for EDA.
 Check visualizations in visualizations/.
 
 Open the Power BI dashboard for interactive data exploration
+
+![image](https://github.com/user-attachments/assets/54e04184-b843-4fbf-b632-d38ebbf85dc1)
+
