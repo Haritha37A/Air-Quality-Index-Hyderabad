@@ -4,7 +4,7 @@ This project analyzes the Air Quality Index (AQI) in Hyderabad, focusing on key 
 
 🔍 Key Features
 
-Data Collection: Scraping and aggregating daily AQI data from reliable sources (CPCB).
+Data Collection: Scraping and aggregating daily AQI data from reliable sources (CPCB website).
 
 Data Cleaning & Processing: Handling missing values, timestamp formatting, and normalizing pollutant levels.
 
