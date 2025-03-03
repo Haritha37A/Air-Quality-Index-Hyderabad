@@ -10,7 +10,6 @@ Data Cleaning & Processing: Handling missing values, timestamp formatting, and n
 
 Exploratory Data Analysis (EDA): Identifying seasonal trends, peak pollution hours, and geographic variations.
 
-Public Health Correlation: Studying links between AQI levels and respiratory illness rates.
 
 Visualization Dashboard: Interactive Power BI  dashboard for AQI monitoring.
 
